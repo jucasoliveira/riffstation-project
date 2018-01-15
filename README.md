@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-## TO Run this project you will need the back end repo [riffstatio-project-back](https://github.com/jucasoliveira/riffstation-project-back) up and runnning first
+## TO Run this project you will need the back end repo [riffstation-project-back](https://github.com/jucasoliveira/riffstation-project-back) up and runnning first
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
