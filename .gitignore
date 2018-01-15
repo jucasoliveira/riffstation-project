@@ -24,11 +24,22 @@ yarn-error.log*
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
+./GetSongData/.idea/*
+./GetSongData/.idea/**/workspace.xml
+./GetSongData/.idea/**/tasks.xml
+./GetSongData/.idea/dictionaries
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
 
 # Sensitive or high-churn files:
+./GetSongData/.idea/**/dataSources/
+./GetSongData/.idea/**/dataSources.ids
+./GetSongData/.idea/**/dataSources.xml
+./GetSongData/.idea/**/dataSources.local.xml
+./GetSongData/.idea/**/sqlDataSources.xml
+./GetSongData/.idea/**/dynamic.xml
+./GetSongData/.idea/**/uiDesigner.xml
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.xml
